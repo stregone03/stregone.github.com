@@ -1,2 +1,2 @@
 # stregone.github.com
-Stregone's Blog
+Stregone's Site
